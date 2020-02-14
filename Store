@@ -1,0 +1,86 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="supreme.css"" type="text/css">
+<meta name = "viewport" content = "width = device-width, initial-scale = 1">
+<link rel = "stylesheet" href = "https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"> 
+<script src = "https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <meta charset="UTF-8">
+
+ <script type="text/JavaScript" src="sup.js"></script>
+  
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+
+
+
+
+
+<title>
+Supreme
+</title>
+</head>
+
+
+<body>
+
+
+
+<div data-role = "page" id = "pageone">
+<h1>Current Date and Time</h1>
+<script type="text/JavaScript" src="timegreet.js" > </script>
+<div data-role = "header">
+<div class="logo">
+
+
+</div>
+<div class="flex-container">
+
+<a href="jacket.html"><img class="item" src="supimgs/sup1.png"></a>
+<a href=""><img class="item" src="supimgs/sup2.png"></a>
+<a href=""><img class="item" src="supimgs/sup3.png"></a>
+<a href=""><img class="item" src="supimgs/sup4.png"></a>
+<a href=""><img class="item" src="supimgs/sup5.png"></a>
+<a href=""><img class="item" src="supimgs/sup6.png"></a>
+
+<a href=""><img class="item" src="supimgs/sup7.png"></a>
+<a href=""><img class="item" src="supimgs/sup8.png"></a>
+<a href=""><img class="item" src="supimgs/sup9.png"></a>
+<a href=""><img class="item" src="supimgs/sup10.png"></a>
+<a href=""><img class="item" src="supimgs/sup11.png"></a>
+
+<a href=""><img class="item" src="supimgs/sup18.png"></a>
+<a href=""><img class="item" src="supimgs/sup19.png"></a>
+<a href=""><img class="item" src="supimgs/sup20.png"></a>
+<a href=""><img class="item" src="supimgs/sup12.png"></a>
+<a href=""><img class="item" src="supimgs/sup13.png"></a>
+<a href=""><img class="item" src="supimgs/sup14.png"></a>
+<a href=""><img class="item" src="supimgs/sup15.png"></a>
+<a href=""><img class="item" src="supimgs/sup16.png"></a>
+
+<a href=""><img class="item" src="supimgs/sup6.png"></a>
+<a href=""><img class="item" src="supimgs/sup18.png"></a>
+<a href=""><img class="item" src="supimgs/sup19.png"></a>
+<a href=""><img class="item" src="supimgs/sup20.png"></a>
+</div>
+</div>
+
+<div data-role = "footer">
+<div class="nav">
+<a href="">home</a>
+<a href="">shop</a>
+<a href="">about</a>
+<a href="">contact</a>
+<a href="">mailing list</a>
+</div>
+</div>
+
+</body>
+</html>
